@@ -1,0 +1,3 @@
+C:/Users/amaur/C/IEEE-754/cmake-build-debug/CMakeFiles/IEEE_754.dir
+C:/Users/amaur/C/IEEE-754/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/amaur/C/IEEE-754/cmake-build-debug/CMakeFiles/rebuild_cache.dir
